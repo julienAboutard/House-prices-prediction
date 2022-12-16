@@ -1,4 +1,4 @@
-# Binomotron 3 - README  
+# House Price AI - README  
   
 ## But du projet  
 
